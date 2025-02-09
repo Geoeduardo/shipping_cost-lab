@@ -22,6 +22,6 @@ A robust, efficient, and transparent system for calculating shipping costs and p
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/shipping-cost-calculator.git
+   git clone https://github.com/Geoeduardo/shipping_cost-lab.git
    cd shipping-cost-calculator
 
